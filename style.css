@@ -1,0 +1,51 @@
+/*body{
+    background-color: blueviolet;
+}*/
+
+p {
+    font-family: "Roboto", sans-serif;
+    /*tipo da fonte */
+    /*font-optical-sizing: auto; visualização da fonte*/
+    font-weight: 300;
+    /* peso(mais fininhoou mais destacado)*/
+    font-style: normal;
+    /*como aparece no texto */
+    font-variation-settings:
+        "wdth" 100;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+
+    font-family: "Playwrite DK Uloopet Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(243, 90, 8);
+}
+
+body {
+    background-color: rgb(227, 243, 104);
+}
+
+a {
+    color: rgb(208, 11, 11)
+}
+
+a:hover {
+    color: black
+}
+
+hr {
+    border: 1px solid rgb(205, 90, 7)
+}
+
+img {
+    width: 30%;
+    /*largura*/
+    height: auto;
+    /*altura*/
+    border-radius: 5px;
+    /*arredonda bordas*/
+    box-shadow: 3px 3px 5px crimson;
+    /*valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra,cor da sombra*/
+}
