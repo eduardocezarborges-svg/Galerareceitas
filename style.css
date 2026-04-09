@@ -20,15 +20,15 @@ h1 {
     font-family: "Playwrite DK Uloopet Guides", cursive;
     font-weight: 400;
     font-style: normal;
-    color: rgb(243, 90, 8);
+    color: rgb(255, 255, 255);
 }
 
 body {
-    background-color: rgb(227, 243, 104);
+    background-color: rgb(28, 82, 208);
 }
 
 a {
-    color: rgb(208, 11, 11)
+    color: rgb(255, 255, 255)
 }
 
 a:hover {
@@ -36,7 +36,7 @@ a:hover {
 }
 
 hr {
-    border: 1px solid rgb(205, 90, 7)
+    border: 1px solid rgb(245, 245, 244)
 }
 
 img {
@@ -46,6 +46,6 @@ img {
     /*altura*/
     border-radius: 5px;
     /*arredonda bordas*/
-    box-shadow: 3px 3px 5px crimson;
+    box-shadow: 3px 3px 5px rgb(250, 250, 250);
     /*valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra,cor da sombra*/
 }
